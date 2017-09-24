@@ -1,0 +1,62 @@
+1881 Census - Dorset County - Surname search: Wellington
+
+
+
+Source: Family History Resource file - 1881 British Census - Southwestern Region (1999)
+
+Listings are "copy and paste" extracts from CD based on surname search.  
+
+Non-related lodgers are deleted.  
+
+Other family members than the head are deleted if not a searched surname.  
+
+
+
+Format: Name	Married	Age	Sex	Birthplace
+
+
+
+Census Place:	Chideock
+
+Dwelling:	Alma Cottage
+
+Eliza WELLINGTON	W	55 	F	Blandford, Dorset, England
+
+	Rel:	Head
+
+	Occ:	Annuitant
+
+Henry A. WELLINGTON	U	17 	M	Southampton, Hampshire, England
+
+	Rel:	Son
+
+	Occ:	Grocer (Apprentice)
+
+Frederick H. HODDER	 	4 	M	New Zealand
+
+	Rel:	G Son
+
+	Occ:	Scholar
+
+
+
+
+
+Census Place:	Whitchurch Canonicorum
+
+Dwelling:	Vicarage House
+
+Francis E. ALLEN	M	42 	M	Ilminster, Somerset, England
+
+	Rel:	Head
+
+	Occ:	Rector Of Chilcombe & Curate Of Whitch C
+
+George WELLINGTON	U	28 	M	South Petherton, Somerset, England
+
+	Rel:	Curate
+
+	Occ:	Assist Curate Of Whitchurch
+
+
+

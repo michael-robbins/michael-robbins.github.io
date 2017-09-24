@@ -1,0 +1,2356 @@
+1881 Census - Devon County - Surname search: Wellington
+
+
+
+Source: Family History Resource file - 1881 British Census - Southwestern Region (1999)
+
+Listings are "copy and paste" extracts from CD based on surname search.  
+
+Non-related lodgers are deleted.  
+
+Other family members than the head are deleted if not a searched surname.
+
+
+
+Format: Name	Married	Age	Sex	Birthplace
+
+
+
+Census Place:	Blackawton
+
+Dwelling:	Burelstone
+
+John WELLINGTON	M	35 	M	Sherford, Devon, England
+
+	Rel:	Head
+
+	Occ:	Ag Lab
+
+Susan WELLINGTON	M	34 	F	Blackawton, Devon, England
+
+	Rel:	Wife
+
+	Occ:	Wife
+
+Mary S. WELLINGTON	 	12 	F	Blackawton, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+Samuel R. WELLINGTON	 	9 	M	Stokefleming, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Jessie WELLINGTON	 	6 	F	Blackawton, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+Louisa WELLINGTON	 	3 	F	Blackawton, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+Robert MORTIMORE	W	73 	M	Stokefleming, Devon, England
+
+	Rel:	Father In Law
+
+	Occ:	Ag Lab
+
+
+
+
+
+Census Place:	Brixham
+
+Institution:	"Seamans Orphan Home"
+
+William C. EDWARDS	U	21 	M	St Breaze, Cornwall, England
+
+	Rel:	Assistant Schoolmaster (Head)
+
+	Occ:	School Master
+
+William J. WELLINGTON	 	11 	M	Kingsbridge, Devon, England
+
+	Rel:	Ward Of Chaplain
+
+	Occ:	Scholar
+
+Albert WELLINGTON	 	8 	M	Kingsbridge, Devon, England
+
+	Rel:	Ward Of Chaplain
+
+	Occ:	Scholar
+
+
+
+
+
+Census Place:	Burrington
+
+Dwelling:	Bridge
+
+Robert VICARY	M	38 	M	Oakford, Devon, England
+
+	Rel:	Head
+
+	Occ:	Farmer Of 240 Acres Employing 3 Labourers & 3 Boys
+
+George WELLINGTON	U	16 	M	Burrington, Devon, England
+
+	Rel:	Serv
+
+	Occ:	Farm Serv (In Door)
+
+
+
+Dwelling:	Golland
+
+Julia BABBAGE	W	26 	F	Winkleigh, Devon, England
+
+	Rel:	Head
+
+	Occ:	Farmer Of 90 Acres Employing 2 Men & One Boy
+
+Frederick WELLINGTON	 	13 	M	Burrington, Devon, England
+
+	Rel:	Serv
+
+	Occ:	Farm Servant In Doors
+
+
+
+Census Place:	Charleton
+
+Dwelling:	East Charleton
+
+William H. ELLIOTT	M	32 	M	Charleton, Devon, England
+
+	Rel:	Head
+
+	Occ:	Agrcultor Labourer
+
+Fredrick S. WELLINGTON	 	7 	M	Kingsbridge, Devon, England
+
+	Rel:	W Son
+
+	Occ:	Scholar
+
+Harold WELLINGTON	 	5 	M	Kingsbridge, Devon, England
+
+	Rel:	W Son
+
+	Occ:	Scholar
+
+
+
+
+
+Census Place:	Chideock
+
+Dwelling:	Alma Cottage
+
+Eliza WELLINGTON	W	55 	F	Blandford, Dorset, England
+
+	Rel:	Head
+
+	Occ:	Annuitant
+
+Henry A. WELLINGTON	U	17 	M	Southampton, Hampshire, England
+
+	Rel:	Son
+
+	Occ:	Grocer (Apprentice)
+
+Frederick H. HODDER	 	4 	M	New Zealand
+
+	Rel:	G Son
+
+	Occ:	Scholar
+
+
+
+
+
+Census Place:	Chudleigh
+
+Dwelling:	Fore St
+
+Wm. WELLINGTON	M	56 	M	Cornwall, England
+
+	Rel:	Head
+
+	Occ:	Gardener (M)
+
+Eliza WELLINGTON	M	57 	F	Chudleigh, Devon, England
+
+	Rel:	Wife
+
+
+
+
+
+Census Place:	Compton Gifford
+
+Dwelling:	8 Seaton Terrace
+
+Cathrine PEEKE	W	79 	F	St Budeaux, Devon, England
+
+	Rel:	Head
+
+	Occ:	Principal Of School
+
+Susan M. WELLINGTON	U	17 	F	Fowey, Cornwall, England
+
+	Rel:	Boarder
+
+	Occ:	Scholar
+
+
+
+
+
+Census Place:	Crediton
+
+Dwelling:	Backs Cottage
+
+James WELLINGTON	M	57 	M	Crediton, Devon, England
+
+	Rel:	Head
+
+	Occ:	Superintendant Reigistrar Clerk To Guardian Of Crediton Union (Muni)
+
+Anna Maria WELLINGTON	M	52 	F	Waymouth, Dorset, England
+
+	Rel:	Wife
+
+	Occ:	Housewife
+
+Grace M. WELLINGTON	U	29 	F	Crediton, Devon, England
+
+	Rel:	Dau
+
+	Occ:	School Mistress
+
+Mary Ann WELLINGTON	U	25 	F	Crediton, Devon, England
+
+	Rel:	Dau
+
+	Occ:	Book Keeper
+
+James WELLINGTON	U	23 	M	Crediton, Devon, England
+
+	Rel:	Son
+
+	Occ:	Accountant
+
+Charity WELLINGTON	U	21 	F	Crediton, Devon, England
+
+	Rel:	Dau
+
+	Occ:	School Mistress
+
+Georgina WELLINGTON	U	18 	F	Crediton, Devon, England
+
+	Rel:	Dau
+
+	Occ:	Assistant Mistress
+
+Ebenizer WELLINGTON	U	15 	M	Crediton, Devon, England
+
+	Rel:	Son
+
+	Occ:	Clerk In Union Register Office (Muni)
+
+Lydia WELLINGTON	U	13 	F	Crediton, Devon, England
+
+	Rel:	Dau
+
+	Occ:	Scholar
+
+Cornelius WELLINGTON	 	9 	M	Crediton, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+
+
+
+
+Census Place:	Cullompton
+
+Dwelling:	Higher Street The Cottage
+
+Joseph WELLINGTON	M	31 	M	Cullompton, Devon, England
+
+	Rel:	Head
+
+	Occ:	General Laborer
+
+Sarah Ann WELLINGTON	M	32 	F	Alresford, Hampshire, England
+
+	Rel:	Wife
+
+Joseph Willm. WELLINGTON	U	12 	M	Portsmouth, Hampshire, England
+
+	Rel:	Son
+
+	Occ:	Laborer
+
+John Thos. WELLINGTON	U	8 	M	Cullompton, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Frederic Jas. WELLINGTON	U	7 	M	Cullompton, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Louisa WELLINGTON	U	6 	F	Cullompton, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+Frank WELLINGTON	U	4 	M	Cullompton, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+
+
+Dwelling:	High Street The Cottage
+
+James WELLINGTON	M	34 	M	Cullompton, Devon, England
+
+	Rel:	Head
+
+	Occ:	Ropemaker
+
+Mary Ann WELLINGTON	M	36 	F	Hockworthy, Devon, England
+
+	Rel:	Wife
+
+Thos. GARDENER	U	15 	M	Hockworthy, Devon, England
+
+	Rel:	Son
+
+	Occ:	Farm Agricull Laborer
+
+Lilly WELLINGTON	U	9 	F	Cullompton, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+John WELLINGTON	U	7 	M	Cullompton, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Daniel WELLINGTON	U	5 	M	Cullompton, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Joseph WELLINGTON	U	3 	M	Cullompton, Devon, England
+
+	Rel:	Son
+
+Mary Ann WELLINGTON	U	1 	F	Cullompton, Devon, England
+
+	Rel:	Daur
+
+
+
+
+
+Census Place:	Dartington
+
+Dwelling:	Venton
+
+James Dimond MOYSEY	M	66 	M	Dartington, Devon, England
+
+	Rel:	Head
+
+	Occ:	Farmer Of 181 A R 1 P 24 Acres Employing 3 Men & 1 Boy
+
+Emily WELLINGTON	U	20 	F	Ugborough, Devon, England
+
+	Rel:	Servant
+
+	Occ:	Housemaid
+
+
+
+
+
+Census Place:	Dartmouth St Saviour
+
+Dwelling:	Oxford Slip
+
+Henry WELLINGTON	M	55 	M	Eallington, Devon, England
+
+	Rel:	Head
+
+	Occ:	Labourer
+
+Mary A. WELLINGTON	M	49 	F	Blackawton, Devon, England
+
+	Rel:	Wife
+
+Margaret WELLINGTON	U	18 	F	Eallington, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Servant
+
+Jessie WELLINGTON	U	16 	F	Eallington, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Servant
+
+Charlotte WELLINGTON	U	14 	F	Eallington, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Servant
+
+Henry WELLINGTON	U	13 	M	Eallington, Devon, England
+
+	Rel:	Son
+
+	Occ:	Servant (Dom)
+
+John WELLINGTON	U	7 	M	Eallington, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+
+
+Dwelling:	Lower St
+
+George A. WELLINGTON	M	52 	M	Fowey, Cornwall, England
+
+	Rel:	Head
+
+	Occ:	Mariner (M S)
+
+Louisa A. WELLINGTON	M	48 	F	Dartmouth, Devon, England
+
+	Rel:	Wife
+
+George H.L. WELLINGTON	U	24 	M	Dartmouth, Devon, England
+
+	Rel:	Son
+
+	Occ:	Waterman
+
+Freda K.R. WELLINGTON	 	3 	F	Dartmouth, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+
+
+Dwelling:	Lower St
+
+Henry J. WELLINGTON	M	33 	M	E Teignmouth, Devon, England
+
+	Rel:	Head
+
+	Occ:	Baker & Grocer Employing 1 Man 5 Boys
+
+Harriet B. WELLINGTON	M	38 	F	Dartmouth, Devon, England
+
+	Rel:	Wife
+
+Mary J. WELLINGTON	 	10 	F	Dartmouth, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+Annie WELLINGTON	 	8 	F	Dartmouth, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+Emma WELLINGTON	 	5 	F	Dartmouth, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+Granville M. WELLINGTON	 	2 	M	Dartmouth, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Fred D. WELLINGTON	 	1 	M	Dartmouth, Devon, England
+
+	Rel:	Son
+
+
+
+
+
+Census Place:	Dawlish
+
+Dwelling:	9 Barton Terrace
+
+Jno.G. PEASLEY	M	72 	M	Exeter, Devon, England
+
+	Rel:	Head
+
+	Occ:	No Occupation
+
+Carolin WELLINGTON	W	37 	F	
+
+	Rel:	Servant
+
+	Occ:	Housekeeper
+
+
+
+Dwelling:	2 Brook St
+
+George WELLINGTON	M	49 	M	Dawlish, Devon, England
+
+	Rel:	Head
+
+	Occ:	Naval Pensioner
+
+Hellen M. WELLINGTON	M	50 	F	Dawlish, Devon, England
+
+	Rel:	Wife
+
+	Occ:	Dressmaker
+
+Emma WELLINGTON	U	21 	F	Dawlish, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Dressmaker
+
+
+
+Dwelling:	8 Barton Terrace
+
+John R. SWETE	M	69 	M	Kenton, Devon, England
+
+	Rel:	Head
+
+	Occ:	Retired Col Full Pay Royal Artillery
+
+  WELLINGTON	W	50 	F	
+
+	Rel:	Servant
+
+	Occ:	Housekeeper
+
+
+
+Dwelling:	Brook St
+
+Mary Ann WELLINGTON	U	62 	F	N K, Devon, England
+
+	Rel:	Head
+
+	Occ:	Formerly Laundress
+
+
+
+
+
+Census Place:	Devonport
+
+Vessel:	"Indus"
+
+Peter WELLINGTON	M	35 	M	Polkerris, Cornwall, England
+
+	Occ:	Admirals Coxn
+
+
+
+
+
+Census Place:	Dodbrooke
+
+Dwelling:	Market Place
+
+William T. WELLINGTON	M	40 	M	Sherford, Devon, England
+
+	Rel:	Head
+
+	Occ:	Watchmaker
+
+Jane WELLINGTON	M	40 	F	Charleton, Devon, England
+
+	Rel:	Wife
+
+Elizabeth WELLINGTON	 	15 	F	Kingsbridge, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Servant Domestic
+
+Alfred T. WELLINGTON	 	13 	M	Kingsbridge, Devon, England
+
+	Rel:	Son
+
+	Occ:	Watchmaker Apprentice
+
+Adelaide WELLINGTON	 	10 	F	Kingsbridge, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+
+
+Dwelling:	Rose Cottage
+
+James WELLINGTON	M	34 	M	Ivybridge, Devon, England
+
+	Rel:	Head
+
+	Occ:	Tanner
+
+Susan WELLINGTON	M	30 	F	South Milton, Devon, England
+
+	Rel:	Wife
+
+Arthur WELLINGTON	 	8 	M	West Alvington, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Norman WELLINGTON	 	7 	M	West Alvington, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+
+
+Dwelling:	Rack Park Fm
+
+Geo. LANGWORTHY	M	44 	M	Kingsbridge, Devon, England
+
+	Rel:	Head
+
+	Occ:	Farmer Of 35 Acres Employing 1 Boy
+
+Sarah A. WELLINGTON	U	22 	F	East Allington, Devon, England
+
+	Rel:	Servt
+
+	Occ:	General Servt Domestic
+
+
+
+Census Place:	Dunsford
+
+Dwelling:	Court Farm
+
+William SEWARD	M	34 	M	Dunsford, Devon, England
+
+	Rel:	Head
+
+	Occ:	Farmer Of 65 Acres Employing (1 Laborer)
+
+Mary A. WELLINGTON	U	18 	F	Dunsford, Devon, England
+
+	Rel:	Servant
+
+	Occ:	General Servant (Domestic)
+
+
+
+Dwelling:	Wanscombe Cottage
+
+George WELLINGTON	M	45 	M	Sandford, Devon, England
+
+	Rel:	Head
+
+	Occ:	Farm Labourer
+
+Elizabeth WELLINGTON	M	39 	F	Dunsford, Devon, England
+
+	Rel:	Wife
+
+	Occ:	Labourers Wife
+
+Maria WELLINGTON	U	12 	F	Dunsford, Devon, England
+
+	Rel:	Daughter
+
+	Occ:	Scholar
+
+George WELLINGTON	U	8 	M	Dunsford, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Lucy WELLINGTON	U	7 	F	Dunsford, Devon, England
+
+	Rel:	Daughter
+
+	Occ:	Scholar
+
+Walter WELLINGTON	U	7 	M	Dunsford, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Charles WELLINGTON	U	2 	M	Dunsford, Devon, England
+
+	Rel:	Son
+
+Sydney WELLINGTON	U	8 m	M	Dunsford, Devon, England
+
+	Rel:	Son
+
+
+
+
+
+Census Place:	East Allington
+
+Dwelling:	Rimpstone
+
+Jas. Cornish LANGINTHY	M	28 	M	Kingsbridge, Devon, England
+
+	Rel:	Head
+
+	Occ:	Farmer Of 132 Acres Employing 2 Men & 2 Boys
+
+Maria WELLINGTON	U	17 	F	East Allington, Devon, England
+
+	Rel:	Serv
+
+	Occ:	Domestic Serv
+
+
+
+
+
+Census Place:	East Stonehouse
+
+Institution:	"Royal Marine Barracks" Durnford Street
+
+W.H. WELLINGTON	U	19 	M	Stonehouse, Devon, England
+
+	Rel:	Soldier
+
+	Occ:	Private R M
+
+
+
+Dwelling:	6 Peel Street
+
+John WELLINGTON	M	45 	M	St Thomas, Devon, England
+
+	Rel:	Head
+
+	Occ:	Labourer R N Hospital
+
+Sarah WELLINGTON	M	44 	F	East Stonehouse, Devon, England
+
+	Rel:	Wife
+
+John WELLINGTON	 	9 	M	East Stonehouse, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Albert WELLINGTON	 	9 	M	East Stonehouse, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Frederick WELLINGTON	 	7 	M	East Stonehouse, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Charles WELLINGTON	 	5 	M	East Stonehouse, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+
+
+
+
+Census Place:	Ermington
+
+Dwelling:	11 Western Rd
+
+William WELLINGTON	M	62 	M	Shobrook, Devon, England
+
+	Rel:	Head
+
+	Occ:	Farmer
+
+Mary WELLINGTON	M	55 	F	Sandford, Devon, England
+
+	Rel:	Wife
+
+	Occ:	Stay Maker
+
+
+
+
+
+Census Place:	Exeter Heavitree
+
+Dwelling:	9 Salutary Mount
+
+Robert N.G. BAKER	M	46 	M	Exeter, Devon, England
+
+	Rel:	Head
+
+	Occ:	Brewer Employing 23 Men
+
+Emma WELLINGTON	M	26 	F	Bradninch, Devon, England
+
+	Rel:	Servt
+
+	Occ:	Cook Domestic
+
+
+
+
+
+Census Place:	Exeter Holy Trinity
+
+Institution:	"Devon And Exeter Hospital" Southernhay Exeter
+
+Ann WELLINGTON	U	17 	F	Sandford, Devon, England
+
+	Rel:	Patient
+
+	Occ:	Cook (Domestic Servant)
+
+
+
+
+
+Census Place:	Exeter St David
+
+Dwelling:	18 Exe St
+
+Daniel HOOPER	M	23 	M	St Austell, Cornwall, England
+
+	Rel:	Head
+
+	Occ:	General Labourer
+
+Dinah HOOPER	M	24 	F	Upton Helen, Devon, England
+
+	Rel:	Wife
+
+Ann WELLINGTON	M	58 	F	Shobrook, Devon, England
+
+	Rel:	Mother In Law
+
+
+
+Dwelling:	London Hotel
+
+Robert POPLE	M	45 	M	Bridgewater, Somerset, England
+
+	Rel:	Head
+
+	Occ:	Hotel Keeper & Farmer
+
+Sarah A. WELLINGTON	U	24 	F	Sandford, Devon, England
+
+	Rel:	Serv
+
+	Occ:	General Servant
+
+
+
+Dwelling:	5 Howell Road
+
+William MEARS	W	68 	M	South, Lincoln, England
+
+	Rel:	Head
+
+	Occ:	Railway Superintendent
+
+Amy Faith WELLINGTON	U	13 	F	Exeter, Devon, England
+
+	Rel:	Serv
+
+	Occ:	Domestic Servant
+
+
+
+
+
+Census Place:	Exeter St Edmund
+
+Dwelling:	Anchor Lane
+
+Hope WELLINGTON	W	39 	F	St Thomas, Devon, England
+
+	Rel:	Head
+
+	Occ:	Keeps Mangle
+
+Helen WELLINGTON	U	6 	F	Exeter, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+Hy.L. ((Mary)) WELLINGTON	U	4 	M	Exeter, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Ralph F.W. WELLINGTON	U	1 	M	Exeter, Devon, England
+
+	Rel:	Son
+
+
+
+
+
+Census Place:	Exeter St George The Martyr
+
+Dwelling:	4 George Street
+
+Frank HUBBER	M	25 	M	Exeter, Devon, England
+
+	Rel:	Head
+
+	Occ:	Plumber Master
+
+Elizabeth WELLINGTON	 	13 	F	Exeter, Devon, England
+
+	Rel:	Serv
+
+	Occ:	Domestic Servant
+
+
+
+
+
+Census Place:	Exeter St Mary Major
+
+Dwelling:	Whites Court
+
+George WELLINGTON	M	24 	M	Shobrook, Devon, England
+
+	Rel:	Head
+
+	Occ:	Mason
+
+Ellen WELLINGTON	M	24 	F	Plymouth, Devon, England
+
+	Rel:	Wife
+
+Ellen L. WELLINGTON	 	4 	F	Exeter, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+Alice M.M. WELLINGTON	 	1 	F	Exeter, Devon, England
+
+	Rel:	Daur
+
+
+
+
+
+Census Place:	Exeter St Olave
+
+Dwelling:	20 St Mary Arches St
+
+Elizabeth WELLINGTON	W	53 	F	Sandford, Devon, England
+
+	Rel:	Head
+
+	Occ:	Laundress
+
+John WELLINGTON	U	19 	M	Crediton, Devon, England
+
+	Rel:	Son
+
+	Occ:	China Baker (DR)
+
+
+
+
+
+Census Place:	Exeter St Sidwell
+
+Dwelling:	5 Summerland Crescent
+
+Mary DOBSON	W	60 	F	Knaresboro, York, England
+
+	Rel:	Head
+
+	Occ:	Matron To An Orphanage (Instit Sch)
+
+Lydia WELLINGTON	U	7 	F	Torquay, Devon, England
+
+	Rel:	Scholar
+
+	Occ:	Scholar
+
+
+
+
+
+Census Place:	Exeter St Thomas The Apostle
+
+Dwelling:	End Field Place
+
+Thos. WELLINGTON	M	41 	M	St Thomas, Devon, England
+
+	Rel:	Head
+
+	Occ:	Carpenter
+
+Lucy WELLINGTON	M	38 	F	Crediton, Devon, England
+
+	Rel:	Wife
+
+Mary WELLINGTON	U	16 	F	St Thomas, Devon, England
+
+	Rel:	Daur
+
+Mary UNDERHILL	U	58 	F	Crediton, Devon, England
+
+	Rel:	Wifes Aunt
+
+
+
+Dwelling:	28 Cowick Street
+
+Fanny WELLINGTON	W	81 	F	Combe Raleigh, Devon, England
+
+	Rel:	Head
+
+Hannah WELLINGTON	U	52 	F	Exminster, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Grocer
+
+
+
+Dwelling:	2 Sidney Place
+
+Thomas DEUMEAD	M	39 	M	Yatton, Somerset, England
+
+	Rel:	Head
+
+	Occ:	Telegraph Supdt Civil Service (St)
+
+Hannah J. WELLINGTON	U	19 	F	Tedburn, Devon, England
+
+	Rel:	Serv
+
+	Occ:	Gnl Serv
+
+
+
+
+
+Census Place:	Great Torrington
+
+Dwelling:	New Street
+
+Joseph BANGHAM	M	59 	M	Woodstock, Oxford, England
+
+	Rel:	Head
+
+	Occ:	Glove Manufacturer
+
+Emily WELLINGTON	U	30 	F	Tavistock, Devon, England
+
+	Rel:	Servant
+
+	Occ:	General Servant
+
+
+
+
+
+Census Place:	Ilfracombe
+
+Dwelling:	6 Highfield Rd
+
+John J. KING	M	31 	M	Barnstaple, Devon, England
+
+	Rel:	Head
+
+	Occ:	Printer &c
+
+George WELLINGTON	U	25 	M	Tawstock, Devon, England
+
+	Rel:	Boarder
+
+	Occ:	Cellarman
+
+
+
+
+
+Census Place:	Ilsington
+
+Dwelling:	Smallacombe
+
+William LAMBSHEAD	U	32 	M	Ilsington, Devon, England
+
+	Rel:	Head
+
+	Occ:	Farmer 250 Acres Employing 4 Men & 2 Boys
+
+Alice WELLINGTON	U	15 	F	Ilsington, Devon, England
+
+	Rel:	Servant
+
+	Occ:	General Servant (Domestic)
+
+
+
+Dwelling:	8 Haytor Vale
+
+Samuel TAYLOR	M	64 	M	Ilsington, Devon, England
+
+	Rel:	Head
+
+	Occ:	Labourer
+
+George WELLINGTON	U	18 	M	Ilsington, Devon, England
+
+	Rel:	Grandsn
+
+	Occ:	Labourer
+
+Ernest WELLINGTON	U	13 	M	Ilsington, Devon, England
+
+	Rel:	Grandsn
+
+	Occ:	Farm Labourer
+
+
+
+Dwelling:	11 Haytor Vale
+
+John WELLINGTON	M	49 	M	Landlewit, Cornwall, England
+
+	Rel:	Head
+
+	Occ:	Iron Miner
+
+Elizabeth WELLINGTON	M	40 	F	Ilsington, Devon, England
+
+	Rel:	Wife
+
+	Occ:	Iron Miner Wife
+
+Mabel WELLINGTON	 	4 	F	Ilsington, Devon, England
+
+	Rel:	Daur
+
+Leah WELLINGTON	 	1 	F	Ilsington, Devon, England
+
+	Rel:	Daur
+
+
+
+
+
+Census Place:	Laira
+
+Dwelling:	Laira Avenue
+
+William EMERY	M	63 	M	Hurstpierpoint, Sussex, England
+
+	Rel:	Head
+
+	Occ:	General Labourer
+
+Ann EMERY	M	54 	F	Hawkhurst, Kent, England
+
+	Rel:	Wife
+
+Mary A. WALDRON	W	30 	F	Ticehurst, Sussex, England
+
+	Rel:	Daur
+
+Isabel CREWS	W	24 	F	Dover, Kent, England
+
+	Rel:	Daur
+
+Frances J. CREWS	 	1 	M	Reading, Berkshire, England
+
+	Rel:	Grand Son
+
+William L. EMERY	 	14 	M	Egg Buckland, Devon, England
+
+	Rel:	Son
+
+	Occ:	Library Assistant
+
+Richard WELLINGTON	M	44 	M	East Allington, Devon, England
+
+	Rel:	Son In Law
+
+	Occ:	General Labourer
+
+Ellen WELLINGTON	M	38 	F	Headcorn, Kent, England
+
+	Rel:	Daur
+
+Alice WELLINGTON	 	5 	F	Laira, Devon, England
+
+	Rel:	Grand Daur
+
+	Occ:	Scholar
+
+Richard WELLINGTON	 	4 	M	Laira, Devon, England
+
+	Rel:	Grand Son
+
+	Occ:	Scholar
+
+
+
+
+
+Census Place:	Loddiswell
+
+Dwelling:	Woolston House
+
+Thomas Wyse WEYMOUTH	M	56 	M	Kingsbridge, Devon, England
+
+	Rel:	Head
+
+	Occ:	Solicitor
+
+Mary Jane WELLINGTON	U	18 	F	Kingsbridge, Devon, England
+
+	Rel:	Serv
+
+	Occ:	Housemaid
+
+
+
+
+
+Census Place:	Malborough
+
+Dwelling:	Malborough Village
+
+Heber WELLINGTON	M	25 	M	Arcop, Hereford, England
+
+	Rel:	Head
+
+	Occ:	Teaching Elementory School
+
+Louisa WELLINGTON	M	25 	F	Lowestock, Wiltshire, England
+
+	Rel:	Wife
+
+	Occ:	Teaching Elementory School
+
+Elfrida WELLINGTON	 	1 	F	Fisherton, Wiltshire, England
+
+	Rel:	Daur
+
+
+
+
+
+Census Place:	Modbury
+
+Dwelling:	Shilston
+
+Alfred SAMBELL	M	34 	M	Menheniot, Cornwall, England
+
+	Rel:	Head
+
+	Occ:	Farmer 170 Acres Emp 3 Men & 1 Boy
+
+John WELLINGTON	 	14 	M	N K, Devon, England
+
+	Rel:	Serv
+
+	Occ:	Farm Serv Indoor
+
+
+
+
+
+Census Place:	Moreton Hampstead
+
+Dwelling:	Wray Barton
+
+Robert William CRUMP	M	52 	M	Tishoof, India
+
+	Rel:	Head
+
+	Occ:	Retired Planter (Indigo) Now Farmer
+
+Emily WELLINGTON	 	16 	F	Dunsford, Devon, England
+
+	Rel:	Servt
+
+	Occ:	Kitchenmaid Domestic Servant
+
+
+
+
+
+Census Place:	Nether Exe
+
+Dwelling:	Cottage
+
+Samuel WELLINGTON	M	57 	M	Upton Hellions, Devon, England
+
+	Rel:	Head
+
+	Occ:	Ag Lab
+
+Samuel WELLINGTON	U	16 	M	Thorverton, Devon, England
+
+	Rel:	Son
+
+	Occ:	Ag Lab
+
+James WELLINGTON	 	12 	M	Thorverton, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Emma FENABLES	M	26 	F	Upton Hellions, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Shoemaker Wife
+
+Henry FENABLES	M	33 	M	Oxford, Oxford, England
+
+	Rel:	Son In Law
+
+	Occ:	Shoemaker
+
+
+
+
+
+Census Place:	Nymett Rowland
+
+Dwelling:	Greenland
+
+John WELLINGTON	M	40 	M	Sampford, Devon, England
+
+	Rel:	Head
+
+	Occ:	Railway Packer (Lab)
+
+Ann WELLINGTON	M	38 	F	Burrington, Devon, England
+
+	Rel:	Wife
+
+	Occ:	Packers Wife
+
+Mary A. WELLINGTON	 	12 	F	Burrington, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+Elizabeth WELLINGTON	 	8 	F	Burrington, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+
+
+
+
+Census Place:	Okehampton
+
+Dwelling:	West Street
+
+Stephen WELLINGTON	W	50 	M	Crediton, Devon, England
+
+	Rel:	Head
+
+	Occ:	Post Master & Accountant
+
+Anna M. WELLINGTON	U	21 	F	Ilfracombe, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Post Office Asst (Cso)
+
+Thomas M. WELLINGTON	 	19 	M	Okehampton
+
+	Rel:	Son
+
+	Occ:	Organist
+
+Arthur WELLINGTON	 	16 	M	Okehampton
+
+	Rel:	Son
+
+Lena WELLINGTON	 	14 	F	Okehampton
+
+	Rel:	Daur
+
+	Occ:	Telegraphist
+
+Harold WELLINGTON	 	12 	M	Okehampton
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Effie M. WELLINGTON	U	9 	F	Okehampton
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+Winifred WELLINGTON	 	7 	F	Okehampton
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+Ida Martha WELLINGTON	 	3 	F	Okehampton
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+Martha A. WELLINGTON	 	9 m	F	Okehampton
+
+	Rel:	Daur
+
+Maria PILE	 	37 	F	Ilfracombe
+
+	Rel:	Niece
+
+	Occ:	Board School Mistress
+
+Mary Ann PILE	 	27 	F	Ilfracombe
+
+	Rel:	Niece
+
+	Occ:	Milliner
+
+
+
+
+
+Census Place:	Plymouth Charles The Martyr
+
+Dwelling:	41 1/2 Ebrington St
+
+James M. WELLINGTON	M	31 	M	St Winn, Cornwall, England
+
+	Rel:	Head
+
+	Occ:	Shipwright HM Dockyard
+
+Mary A. WELLINGTON	M	26 	F	Padstow, Cornwall, England
+
+	Rel:	Wife
+
+Henry T. WELLINGTON	 	6 	M	Padstow, Cornwall, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Miriam J. WELLINGTON	 	3 	F	Plymouth, Devon, England
+
+	Rel:	Daur
+
+Phillip L. WELLINGTON	 	1 	M	Plymouth, Devon, England
+
+	Rel:	Son
+
+
+
+
+
+Census Place:	Plymouth St Andrew
+
+Dwelling:	14 Richmond St
+
+Edwin WELLINGTON	M	62 	M	Plymouth, Devon, England
+
+	Rel:	Head	Handicap: Blind
+
+	Occ:	Hatter
+
+Harriet WELLINGTON	M	64 	F	Plymouth, Devon, England
+
+	Rel:	Wife
+
+
+
+Dwelling:	31 Anstis St
+
+John WELLINGTON	M	48 	M	Blackawton, Devon, England
+
+	Rel:	Head
+
+	Occ:	Joiner
+
+Mary WELLINGTON	M	48 	F	Cornwall, England
+
+	Rel:	Wife
+
+	Occ:	Joiner Wife
+
+
+
+Dwelling:	36 Union Street
+
+John WELLINGTON	M	47 	M	Ugborough, Devon, England
+
+	Rel:	Head
+
+	Occ:	Inn Keeper
+
+Annie WELLINGTON	M	38 	F	Falmouth, Cornwall, England
+
+	Rel:	Wife
+
+
+
+Dwelling:	22 Neswick St
+
+Samuel WELLINGTON	M	62 	M	Roborough, Devon, England
+
+	Rel:	Head
+
+	Occ:	General Laborer
+
+Harriett WELLINGTON	M	64 	F	Morley
+
+	Rel:	Wife
+
+
+
+Dwelling:	9 Staddon Ter
+
+Ellen WELLINGTON	W	38 	F	Plymouth, Devon, England
+
+	Rel:	Head
+
+	Occ:	Dressmaker
+
+Laura WELLINGTON	 	12 	F	Plymouth, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+
+
+Dwelling:	Elliot Street Lansdowne House
+
+Hemsley H. SHANKS	M	47 	M	Stoke Damerel, Devon, England
+
+	Rel:	Head
+
+	Occ:	Paymaster Royal Navy Sect To Commander In Chief Devonport
+
+Matilda WELLINGTON	U	38 	F	Bodmin, Cornwall, England
+
+	Rel:	Serv
+
+	Occ:	Cook Domestic Serv
+
+
+
+Dwelling:	53 Well Street
+
+William G. HEATHER	M	67 	M	Portsmouth
+
+	Rel:	Head
+
+	Occ:	Pensioner
+
+Emma WELLINGTON	M	35 	F	Morley Parish, Devon, England
+
+	Rel:	Wife
+
+	Occ:	Merchant Seamans Wife
+
+Ada E. WELLINGTON	 	11 	F	Plymouth, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+Samuel R. WELLINGTON	 	10 	M	Plymouth, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Caroline WELLINGTON	 	9 	F	Plymouth, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+James WELLINGTON	 	5 m	M	Plymouth, Devon, England
+
+	Rel:	Son
+
+
+
+Dwelling:	5 Railway Cotts
+
+James GLIDDON	M	49 	M	Okehampton, Devon, England
+
+	Rel:	Head
+
+	Occ:	Dock Labour
+
+Sarah WELLINGTON	U	21 	F	Tregothan, Cornwall, England
+
+	Rel:	Sister Law
+
+	Occ:	Servant (Out Of Employ)
+
+
+
+Dwelling:	53 Well Street
+
+William G. HEATHER	M	67 	M	Portsmouth
+
+	Rel:	Head
+
+	Occ:	Pensioner
+
+Emma WELLINGTON	M	35 	F	Morley Parish, Devon, England
+
+	Rel:	Wife
+
+	Occ:	Merchant Seamans Wife
+
+Ada E. WELLINGTON	 	11 	F	Plymouth, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+Samuel R. WELLINGTON	 	10 	M	Plymouth, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Caroline WELLINGTON	 	9 	F	Plymouth, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+James WELLINGTON	 	5 m	M	Plymouth, Devon, England
+
+	Rel:	Son
+
+
+
+
+
+Census Place:	Plympton St Mary
+
+Dwelling:	Underwood
+
+John HARRIS	M	58 	M	St Blazey, Cornwall, England
+
+	Rel:	Head
+
+	Occ:	Manager At Gasworks
+
+Maria HARRIS	M	50 	F	Plymstock, Devon, England
+
+	Rel:	Wife
+
+Maria WELLINGTON	W	81 	F	Luxulgan, Cornwall, England
+
+	Rel:	Mother
+
+
+
+
+
+Census Place:	Powderham
+
+Dwelling:	Powderham Castle
+
+Agnes (Lady) WOOD	M	43 	F	Powderham, Devon, England
+
+	Rel:	Daur
+
+William W. WELLINGTON	U	22 	M	Powderham, Devon, England
+
+	Rel:	Footman
+
+	Occ:	Domestic Servant (Man)
+
+
+
+Dwelling:	Village School
+
+Marianne WELLINGTON	W	49 	F	Thorverton, Devon, England
+
+	Rel:	Head
+
+	Occ:	Schoolmistress
+
+Alice Mary WELLINGTON	U	17 	F	Powderham, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Dressmaker
+
+Richard LANGABEER	W	78 	M	Thorverton, Devon, England
+
+	Rel:	Father
+
+	Occ:	Formerley Thatcher
+
+
+
+
+
+Census Place:	Sandford
+
+Dwelling:	Westsandford
+
+George UREFORD	M	52 	M	Sandford, Devon, England
+
+	Rel:	Head
+
+	Occ:	Farmer Of 307 Acres Employing 7 Laborers & 3 Boys
+
+Sarah WELLINGTON	U	18 	F	Thoeverton, Devon, England
+
+	Rel:	Serv
+
+	Occ:	Genl Serv
+
+
+
+Dwelling:	Land
+
+George WELLINGTON	M	46 	M	Upton Hellions, Devon, England
+
+	Rel:	Head
+
+	Occ:	Ag Lab
+
+Ann WELLINGTON	M	36 	F	Upton Hellions, Devon, England
+
+	Rel:	Wife
+
+	Occ:	Wife
+
+John Henry WELLINGTON	 	6 	M	South Brent, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Harry WELLINGTON	 	4 	M	Sandford, Devon, England
+
+	Rel:	Son
+
+Mary Ann WELLINGTON	W	84 	F	Sandford, Devon, England
+
+	Rel:	Mother
+
+
+
+
+
+Census Place:	Sherford
+
+Dwelling:	 
+
+William WELLINGTON	W	65 	M	Sherford, Devon, England
+
+	Rel:	Head
+
+	Occ:	Ag Labr
+
+Emma WELLINGTON	U	21 	F	Sherford, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Housekeeper
+
+Alice M. WELLINGTON	 	9 m	F	Kingsbridge, Devon, England
+
+	Rel:	Grand Daur
+
+
+
+Dwelling:	 
+
+George BAKER	M	51 	M	Ugborough, Devon, England
+
+	Rel:	Head
+
+	Occ:	Farmer 210 Acres 3 Boys 2 Men
+
+Henry WELLINGTON	 	14 	M	Sherford, Devon, England
+
+	Rel:	Servt
+
+	Occ:	Ag Servt
+
+
+
+
+
+Census Place:	Silverton
+
+Dwelling:	Park House
+
+James CORDWENT	U	57 	M	Trull, Somerset, England
+
+	Rel:	Head
+
+	Occ:	Land Agent
+
+Mary WELLINGTON	U	24 	F	Verney Tidburn, Devon, England
+
+	Rel:	Cook
+
+	Occ:	Servant (Domestic)
+
+Elizabeth WELLINGTON	U	21 	F	Verney Tidburn, Devon, England
+
+	Rel:	Servant
+
+	Occ:	Servant (Domestic)
+
+
+
+
+
+Census Place:	Stoke Damerel
+
+Dwelling:	Coxwains Residence
+
+Peter WELLINGTON	M	35 	M	Tywardreath, Cornwall, England
+
+	Rel:	Head
+
+	Occ:	Chief Petty Officer Royal Navy
+
+Louisa WELLINGTON	M	34 	F	Cornwall, England
+
+	Rel:	Wife
+
+William H. WELLINGTON	 	9 	M	Devonport, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Jonathan R. WELLINGTON	 	6 	M	Devonport, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Edwin G. WELLINGTON	 	3 	M	Devonport, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Christina WELLINGTON	 	1 	F	Devonport, Devon, England
+
+	Rel:	Daur
+
+
+
+
+
+Census Place:	Stokefleming
+
+Dwelling:	Blackpool Road
+
+Robert HODGE	M	50 	M	Stoke Fleming, Devon, England
+
+	Rel:	Head
+
+	Occ:	Agricultural Labourer
+
+William WELLINGTON	U	24 	M	Dartmouth, Devon, England
+
+	Rel:	Boarder
+
+	Occ:	Agr Labourer
+
+Edward WELLINGTON	U	22 	M	Dartmouth, Devon, England
+
+	Rel:	Boarder
+
+	Occ:	Agr Labourer
+
+
+
+
+
+Census Place:	Stokenham
+
+Dwelling:	 
+
+Rubin WELLINGTON	M	34 	M	Stokenham, Devon, England
+
+	Rel:	Head
+
+	Occ:	Ag Lab
+
+Elizabeth An WELLINGTON	M	39 	F	Sherford, Devon, England
+
+	Rel:	Wife
+
+	Occ:	Ag Lab
+
+Frederick COLL	U	18 	M	Sherford, Devon, England
+
+	Rel:	Son
+
+	Occ:	Ag Lab
+
+Ellen WELLINGTON	U	12 	F	Sherford, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+Mary Ann WELLINGTON	 	9 	F	Sherford, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+Albert WELLINGTON	 	6 	M	Sherford, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Sarah WELLINGTON	 	3 	F	Sherford, Devon, England
+
+	Rel:	Daur
+
+Rubin WELLINGTON	 	1 	M	Sherford, Devon, England
+
+	Rel:	Son
+
+
+
+
+
+Census Place:	Tavistock
+
+Dwelling:	Colcharton House
+
+William GILL	M	49 	M	Tavistock, Devon, England
+
+	Rel:	Head
+
+	Occ:	Farmer Of 280 Ac (Employing 5 Men)
+
+Elizabeth WELLINGTON	U	19 	F	Yeovil, Somerset, England
+
+	Rel:	Serv
+
+	Occ:	Cook(Domestic)
+
+
+
+Dwelling:	2 Smemington
+
+John WELLINGTON	M	74 	M	Tawstock, Devon, England
+
+	Rel:	Head
+
+	Occ:	Ag Lab
+
+Emily WELLINGTON	M	60 	F	Peters Marland, Devon, England
+
+	Rel:	Wife
+
+
+
+
+
+Census Place:	Tormoham
+
+Dwelling:	St Mary Church Rd Summerfield
+
+Caroline H. JOHNSON	M	37 	F	Insto, Devon, England
+
+	Rel:	Wife (Head)
+
+Jane D. WELLINGTON	U	29 	F	St Buryen, Cornwall, England
+
+	Rel:	Serv
+
+	Occ:	Cook
+
+
+
+
+
+Census Place:	Totnes
+
+Dwelling:	Rose Cottage
+
+Samuel WELLINGTON	M	39 	M	Totnes, Devon, England
+
+	Rel:	Head
+
+	Occ:	Mason
+
+Harriett WELLINGTON	M	39 	F	
+
+	Rel:	Wife
+
+Edmund WELLINGTON	 	10 	M	Totnes, Devon, England
+
+	Rel:	Son
+
+Florence WELLINGTON	 	3 	F	Totnes, Devon, England
+
+	Rel:	Daur
+
+Harriett WELLINGTON	 	1 	F	Totnes, Devon, England
+
+	Rel:	Daur
+
+
+
+Dwelling:	62 Fore Street
+
+George WELLINGTON	M	31 	M	Totnes, Devon, England
+
+	Rel:	Head
+
+	Occ:	Brewer
+
+Mary J. WELLINGTON	M	33 	F	Totnes, Devon, England
+
+	Rel:	Wife
+
+	Occ:	Brewer Wife
+
+Robert G. WELLINGTON	 	2 	M	Totnes, Devon, England
+
+	Rel:	Son
+
+	Occ:	Brewer Son
+
+Alice M. WELLINGTON	 	4 m	F	Totnes, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Brewer Daughter
+
+
+
+
+
+Census Place:	Ugborough
+
+Dwelling:	Leterburn Street
+
+James WELLINGTON	M	54 	M	Ugborough, Devon, England
+
+	Rel:	Head
+
+	Occ:	Farm Laborer
+
+Eliza WELLINGTON	M	53 	F	Ugborough, Devon, England
+
+	Rel:	Wife
+
+	Occ:	Farm Laborer Wife
+
+William WELLINGTON	W	33 	M	Ugborough, Devon, England
+
+	Rel:	Son
+
+	Occ:	Farm Laborer
+
+Bessie WELLINGTON	U	17 	F	Ugborough, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Domestic
+
+
+
+Dwelling:	Modbury Street
+
+Francis WELLINGTON	M	49 	M	Ugborough, Devon, England
+
+	Rel:	Head
+
+	Occ:	General Laborer
+
+Clara WELLINGTON	M	47 	F	Ugborough, Devon, England
+
+	Rel:	Wife
+
+	Occ:	Laundress
+
+Jane TROUT	W	77 	F	Ugborough, Devon, England
+
+	Rel:	Mother In Law
+
+	Occ:	Domestic
+
+Fanny ROGERS	U	21 	F	Ugborough, Devon, England
+
+	Rel:	Niece
+
+	Occ:	Laundress
+
+Mahela TROUT	U	9 	F	Ugborough, Devon, England
+
+	Rel:	Niece
+
+	Occ:	Scholar
+
+
+
+Dwelling:	No 1 Higher Cheston
+
+Richard CROCKER	M	55 	M	Ugborough, Devon, England
+
+	Rel:	Head
+
+	Occ:	Farmer 143 Emp 2 Labourer
+
+William WELLINGTON	U	18 	M	Ugborough, Devon, England
+
+	Rel:	Serv
+
+	Occ:	Farm Serv (Indoor)
+
+
+
+
+
+Census Place:	Upton Helions
+
+Dwelling:	Rock Cottage
+
+William OLDRIDGE	M	49 	M	Topsham, Devon, England
+
+	Rel:	Head
+
+	Occ:	Pensioner
+
+Rabbina WELLINGTON	 	11 	F	Exeter, Devon, England
+
+	Rel:	Visitor
+
+	Occ:	Scholar
+
+
+
+
+
+Census Place:	West Alvington
+
+Dwelling:	Kiln Cot No 3
+
+John WELLINGTON	M	61 	M	Crediton
+
+	Rel:	Head
+
+	Occ:	Tanner
+
+Elizebeth WELLINGTON	M	60 	F	Plympton St Mary
+
+	Rel:	Wife
+
+
+
+
+
+Census Place:	West Teignmouth
+
+Dwelling:	3 Daviss Court Higher Brook St
+
+Cornelius WELLINGTON	M	26 	M	Teignmouth, Devon, England
+
+	Rel:	Head
+
+	Occ:	General Labourer
+
+Elizabeth WELLINGTON	M	29 	F	Par, Cornwall, England
+
+	Rel:	Wife
+
+William C. WELLINGTON	 	3 	M	Teignmouth, Devon, England
+
+	Rel:	Son
+
+Kate WELLINGTON	 	1 	F	Teignmouth, Devon, England
+
+	Rel:	Daur
+
+
+
+Dwelling:	The Cottage
+
+Malcolm MC LEOD	M	39 	M	Southampton
+
+	Rel:	Head
+
+	Occ:	Retired Civil Service B Burmah
+
+Jessie WELLINGTON	U	22 	F	Ilsington, Devon, England
+
+	Rel:	Servant
+
+	Occ:	Domestic Servant Housemaid
+
+
+
+Dwelling:	6 Parson St
+
+Richard WELLINGTON	M	60 	M	Teignmouth, Devon, England
+
+	Rel:	Head
+
+	Occ:	Formerly Shoe Maker
+
+Jane WELLINGTON	M	61 	F	Teignmouth, Devon, England
+
+	Rel:	Wife
+
+	Occ:	Formerly Staymaker
+
+Albert WELLINGTON	U	18 	M	Teignmouth, Devon, England
+
+	Rel:	Son
+
+	Occ:	Baker
+
+Jessey WELLINGTON	U	16 	F	Teignmouth, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Servant
+
+
+
+
+
+Census Place:	Whitestone
+
+Dwelling:	Deerslake
+
+William WELLINGTON	M	56 	M	Cheriton Tedzpuine, Devon, England
+
+	Rel:	Head
+
+	Occ:	Ag Lab
+
+Susan WELLINGTON	M	51 	F	Tedburn St Mary, Devon, England
+
+	Rel:	Wife
+
+Arthur WELLINGTON	U	16 	M	Whitestone, Devon, England
+
+	Rel:	Son
+
+	Occ:	Ag Lab
+
+Eli WELLINGTON	 	10 	M	Whitestone, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+
+
+
+
+Census Place:	Witheridge
+
+Dwelling:	 
+
+Samuel WELLINGTON	M	53 	M	Crediton, Devon, England
+
+	Rel:	Head
+
+	Occ:	Sergeant Of D Constabulary Crediton
+
+Elizabeth WELLINGTON	M	52 	F	Rotherhithe, Surrey, England
+
+	Rel:	Wife
+
+	Occ:	Wife
+
+Katie N.N. WELLINGTON	U	20 	F	Ipplepen, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Sergeants Daur
+
+
+

@@ -1,0 +1,488 @@
+1881 Census - Somerset County - Surname search: Wellington
+
+
+
+Source: Family History Resource file - 1881 British Census - Southwestern Region (1999)
+
+Listings are "copy and paste" extracts from CD based on surname search. 
+
+Non-related lodgers are deleted.  
+
+Other family members than the head are deleted if not a searched surname.  
+
+
+
+Format: Name	Married	Age	Sex	Birthplace
+
+
+
+Census Place:	Bedminster
+
+Dwelling:	8 Greenway Crest
+
+Rachael SILCOX	W	50 	F	Englishcombe, Somerset, England
+
+	Rel:	Head
+
+	Occ:	Laundress
+
+Alice WELLINGTON	 	12 	F	Bristol
+
+	Rel:	Boarder
+
+	Occ:	Scholar
+
+
+
+Dwelling:	78 East St
+
+Mary CLIFT	U	41 	F	Blackdown, Dorset, England
+
+	Rel:	Head
+
+	Occ:	Draper (Employing 2 Assis & 3 App)
+
+Ellen WELLINGTON	U	41 	F	Yeovil, Somerset, England
+
+	Rel:	Partner
+
+	Occ:	Draper
+
+Lucy WELLINGTON	U	54 	F	Yeovil, Somerset, England
+
+	Rel:	Visitor
+
+
+
+Dwelling:	78 East St
+
+Mary CLIFT	U	41 	F	Blackdown, Dorset, England
+
+	Rel:	Head
+
+	Occ:	Draper (Employing 2 Assis & 3 App)
+
+Ellen WELLINGTON	U	41 	F	Yeovil, Somerset, England
+
+	Rel:	Partner
+
+	Occ:	Draper
+
+Lucy WELLINGTON	U	54 	F	Yeovil, Somerset, England
+
+	Rel:	Visitor
+
+
+
+Dwelling:	43 Wellington St
+
+  (Mrs) CLEMENTS	M	59 	F	Bristol, Somerset, England
+
+	Rel:	Head
+
+	Occ:	Book Sewer
+
+  (Mrs) WELLINGTON	M	24 	F	Bristol
+
+	Rel:	Daur
+
+	Occ:	Milliner
+
+  (Miss) CLEMENTS	U	21 	F	Cardiff, Monmouth, England
+
+	Rel:	Daur
+
+	Occ:	Waistcoat Hand
+
+
+
+
+
+Census Place:	Burnham
+
+Dwelling:	14 Cross St
+
+William J. VANSTOR	M	47 	M	Born Crediton, Devon, England
+
+	Rel:	Head
+
+	Occ:	Carriage Maker (Coach)
+
+Florence WELLINGTON	W	63 	F	Long Ashton, Somerset, England
+
+	Rel:	Boarder
+
+	Occ:	(Annuitant)
+
+
+
+
+
+Census Place:	Chard
+
+Dwelling:	South Chard
+
+Arthur WELLINGTON	M	24 	M	Stepney, Middlesex, England
+
+	Rel:	Head
+
+	Occ:	Farm Bailiff
+
+Elizabeth R. WELLINGTON	M	23 	F	Thorncombe, Dorset, England
+
+	Rel:	Wife
+
+Ada C. WELLINGTON	 	10 m	F	Chard, Somerset, England
+
+	Rel:	Dau
+
+
+
+Dwelling:	South Chard
+
+Caroline WELLINGTON	U	55 	F	Chard, Somerset, England
+
+	Rel:	Head
+
+	Occ:	General Grocer
+
+Mary B. SYMES	U	41 	F	Membury, Devon, England
+
+	Rel:	Neice
+
+	Occ:	Assistant
+
+
+
+Dwelling:	Hardrys Charity High Street
+
+Ann WELLINGTON	U	54 	F	Chard, Somerset, England
+
+	Rel:	Head
+
+
+
+
+
+Census Place:	Clevedon
+
+Dwelling:	Amrotle Lodge
+
+Elizth S. BIRD	W	69 	F	Langford, Somerset, England
+
+	Rel:	Head
+
+	Occ:	Interest Of Money
+
+Catherine WELLINGTON	W	64 	F	Bristol
+
+	Rel:	Visitor
+
+	Occ:	Interest Of Money
+
+
+
+
+
+Census Place:	Compton Martin
+
+Dwelling:	Wrangle
+
+Benjamin WELLINGTON	M	55 	M	Compton Martin, Somerset, England
+
+	Rel:	Head
+
+	Occ:	Lead Miner
+
+Ann WELLINGTON	M	53 	F	Butcombe, Somerset, England
+
+	Rel:	Wife
+
+William WELLINGTON	U	24 	M	Compton Martin, Somerset, England
+
+	Rel:	Son
+
+	Occ:	Ag Lab
+
+Mary A. WELLINGTON	U	15 	F	Compton Martin, Somerset, England
+
+	Rel:	Daur
+
+
+
+Dwelling:	High Hale
+
+Edwin WELLINGTON	M	56 	M	West Harptree, Somerset, England
+
+	Rel:	Head
+
+	Occ:	Lead Miner
+
+Elizabeth WELLINGTON	M	76 	F	Westbury, Somerset, England
+
+	Rel:	Wife
+
+	Occ:	Nurse (S M S)
+
+Phillip WELLINGTON	U	24 	M	Compton Martin, Somerset, England
+
+	Rel:	Son
+
+	Occ:	Ag Lab
+
+
+
+
+
+Census Place:	Keinton Mandeville
+
+Dwelling:	22 Queen St
+
+Anna CLARKE	W	47 	F	Ubley, Somerset, England
+
+	Rel:	Head
+
+	Occ:	Sempstress
+
+Mary WELLINGTON	 	13 	F	Keinton, Somerset, England
+
+	Rel:	Boarder
+
+	Occ:	Domestic Servant
+
+
+
+Dwelling:	6 Queen St
+
+William WELLINGTON	M	47 	M	Compton Martin, Somerset, England
+
+	Rel:	Head
+
+	Occ:	Quarryman
+
+Lucy WELLINGTON	M	41 	F	Charlton Adam, Somerset, England
+
+	Rel:	Wife
+
+Eliza WELLINGTON	U	17 	F	Walton, Somerset, England
+
+	Rel:	Daur
+
+Charles WELLINGTON	 	15 	M	Compton Martin, Somerset, England
+
+	Rel:	Son
+
+	Occ:	Carter (Ag)
+
+Ernest WELLINGTON	 	11 	M	Keinton, Somerset, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Frank WELLINGTON	 	7 	M	Keinton, Somerset, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Rose WELLINGTON	 	5 	F	Keinton, Somerset, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+
+
+
+
+Census Place:	Keynsham
+
+Dwelling:	Mill Lane Cottages
+
+Samuel WELLINGTON	M	58 	M	Bitton, Gloucester, England
+
+	Rel:	Head
+
+	Occ:	Wire Drawer
+
+Martha WELLINGTON	M	60 	F	Keynsham, Somerset, England
+
+	Rel:	Wife
+
+Annie WELLINGTON	U	26 	F	Keynsham, Somerset, England
+
+	Rel:	Daur
+
+
+
+
+
+Census Place:	Kingsbury Episcopi
+
+Dwelling:	 
+
+Edwin WELLINGTON	U	35 	M	Preston, Somerset, England
+
+	Rel:	Head
+
+	Occ:	Farmer Of 45 Acres Employing 1 Man & 1 Boy
+
+
+
+
+
+Census Place:	Misterton
+
+Dwelling:	 
+
+William NEWBERRY	U	26 	M	Crewkerne, Somerset, England
+
+	Rel:	Head
+
+	Occ:	Cotton Dealer & Farmer 20 Acres Employing 1 Man 1 Boy
+
+Jane WELLINGTON	W	61 	F	Tiverton, Devon, England
+
+	Rel:	Servant
+
+	Occ:	General Servant
+
+
+
+
+
+Census Place:	South Petherton
+
+Dwelling:	St James Street
+
+Fredrick G.N. WELLINGTON	M	56 	M	Yeovil, Somerset, England
+
+	Rel:	Head
+
+	Occ:	Chemist & Grocer
+
+Mary WELLINGTON	M	58 	F	Glastonbury, Somerset, England
+
+	Rel:	Wife
+
+
+
+
+
+Census Place:	Taunton St James
+
+Dwelling:	Pyrland Hall
+
+George Richard WELLINGTON	M	52 	M	Doodsbury, Lancashire, England
+
+	Rel:	Head
+
+	Occ:	No Profession Graduate Of Cambridge
+
+Maria WELLINGTON	M	49 	F	Manfield, York, England
+
+	Rel:	Wife
+
+Henry S. WELLINGTON	U	23 	M	Lugweddine, Hereford, England
+
+	Rel:	Son
+
+	Occ:	(None)
+
+
+
+
+
+Census Place:	Taunton St Mary
+
+Dwelling:	5 Batts Court
+
+Wm. WELLINGTON	M	26 	M	Burrington, Devon, England
+
+	Rel:	Head
+
+	Occ:	Bricklayer
+
+Elizabeth WELLINGTON	M	23 	F	Taunton, Somerset, England
+
+	Rel:	Wife
+
+	Occ:	Silk Weaver
+
+Edith WELLINGTON	 	5 	F	Taunton, Somerset, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+
+
+
+
+Census Place:	Wellington
+
+Dwelling:	High St
+
+Anne THOMAS	U	70 	F	Martock, Somerset, England
+
+	Rel:	Head
+
+	Occ:	Independent
+
+Elizabeth WELLINGTON	W	67 	F	Martock, Somerset, England
+
+	Rel:	Sister
+
+	Occ:	Independent
+
+
+
+
+
+Census Place:	Weston Super Mare
+
+Dwelling:	1 Glentworth Terr
+
+Frederick ABERSON	M	52 	M	Amsterdam Naturalized British Subject, The Netherlands
+
+	Rel:	Head
+
+	Occ:	Consul & Commission Agent
+
+Emily C. WELLINGTON	U	33 	F	Bristol, Somerset, England
+
+	Rel:	Servant
+
+	Occ:	Domestic Servant
+
+
+
+
+
+Census Place:	Yeovil
+
+Dwelling:	8 South Westn Ter
+
+James WELLINGTON	M	33 	M	Thorne Coffin, Somerset, England
+
+	Rel:	Head
+
+	Occ:	Clerk (Late Grocer)
+
+Therzia WELLINGTON	M	32 	F	Warminster, Wiltshire, England
+
+	Rel:	Wife
+
+Fredrick J. WELLINGTON	 	5 	M	Yeovil, Somerset, England
+
+	Rel:	Son
+
+Arthur H. WELLINGTON	 	4 	M	Yeovil, Somerset, England
+
+	Rel:	Son
+
+Robert A. WELLINGTON	 	2 	M	Yeovil, Somerset, England
+
+	Rel:	Son
+

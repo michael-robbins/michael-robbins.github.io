@@ -1,0 +1,570 @@
+1881 Census - Southwestern England - Surname search: Willington
+
+
+
+Source: Family History Resource file - 1881 British Census - Southwestern Region (1999)
+
+Listings are "copy and paste" extracts from CD based on surname search.  
+
+Non-related lodgers are deleted.  
+
+Other family members than the head are deleted if not a searched surname.  
+
+County's searched include Cornwall, Devon, Dorset, Gloucester, Somerset and Wiltshire.
+
+
+
+Format: Name	Married	Age	Sex	Birthplace
+
+
+
+Cornwall, England
+
+
+
+Census Place:	Fowey
+
+Dwelling:	North Street
+
+John WILLINGTON	M	62 	M	Fowey, Cornwall, England
+
+	Rel:	Head
+
+	Occ:	(Seaman) Marine Engine Driver
+
+Jane WILLINGTON	M	60 	F	Fowey, Cornwall, England
+
+	Rel:	Wife
+
+Thomas WILLINGTON	U	29 	M	Fowey, Cornwall, England
+
+	Rel:	Son
+
+	Occ:	Railway Porter
+
+Edith WILLINGTON	U	20 	F	Fowey, Cornwall, England
+
+	Rel:	Daur
+
+	Occ:	Dressmaker
+
+
+
+
+
+Census Place:	Lanlivery
+
+Dwelling:	Bodwen Farm
+
+Thomas H. WILLINGTON	U	29 	M	Blisland, Cornwall, England
+
+	Rel:	Head
+
+	Occ:	Farmer Of 128 Acres Employing 1 Man
+
+Charles WILLINGTON	M	76 	M	St Mabyn, Cornwall, England
+
+	Rel:	Father
+
+	Occ:	(Retired) Farmer
+
+Elizabeth WILLINGTON	M	70 	F	St Dominic, Cornwall, England
+
+	Rel:	Mother
+
+	Occ:	(Retired) Farmers Wife
+
+William KEAT	M	39 	M	Blisland, Cornwall, England
+
+	Rel:	Brother In Law
+
+	Occ:	(Visitor) Farmer And Miller
+
+Maria KEAT	M	38 	F	Bodmin, Cornwall, England
+
+	Rel:	Sister
+
+	Occ:	Visitor
+
+Mary E. KEAT	 	9 m	F	Lanlivery, Cornwall, England
+
+	Rel:	Niece
+
+	Occ:	Visitor
+
+Edward BATE	U	18 	M	Blisland, Cornwall, England
+
+	Rel:	Nephew
+
+	Occ:	Farmers Son
+
+
+
+
+
+
+
+Devon, England
+
+
+
+Census Place:	Barnstaple
+
+Dwelling:	Queen Street
+
+William SUMMERS	M	34 	M	Atherington, Devon, England
+
+	Rel:	Head
+
+	Occ:	Baker
+
+Thomas WILLINGTON	U	23 	M	Tawstock, Devon, England
+
+	Rel:	Boarder
+
+	Occ:	Cellarman
+
+
+
+
+
+Census Place:	Hennock
+
+Dwelling:	New Houses
+
+Samuel WILLINGTON	M	27 	M	Ugborough, Devon, England
+
+	Rel:	Head
+
+	Occ:	Iron Miner
+
+Jane WILLINGTON	M	25 	F	Loddiswell, Devon, England
+
+	Rel:	Wife
+
+Edith WILLINGTON	 	4 	F	Stonehouse, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+Albert WILLINGTON	 	3 	M	Stonehouse, Devon, England
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+Walter WILLINGTON	 	6 m	M	Hennock, Devon, England
+
+	Rel:	Son
+
+
+
+
+
+Census Place:	Little Torrington
+
+Dwelling:	Rectory
+
+Geo.De Carteret GUILLE	M	66 	M	Guernsey, Channel Islands
+
+	Rel:	Head
+
+	Occ:	Rector Of Lt Torrington
+
+Mary Jane WILLINGTON	U	21 	F	Chudleigh, Devon, England
+
+	Rel:	Servant
+
+	Occ:	Servant Domestic
+
+
+
+
+
+Census Place:	Stoke Damerel
+
+Dwelling:	10 Hood St
+
+Edwin WILLINGTON	M	31 	M	Plymouth, Devon, England
+
+	Rel:	Head
+
+	Occ:	Gen Lab
+
+Ellen WILLINGTON	M	29 	F	Manchester, Lancashire, England
+
+	Rel:	Wife
+
+Mary E. WILLINGTON	 	11 	F	Plymouth, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+Florence L. WILLINGTON	 	6 	F	Plymouth, Devon, England
+
+	Rel:	Daur
+
+	Occ:	Scholar
+
+Edwin J. WILLINGTON	 	4 	M	Plymouth, Devon, England
+
+	Rel:	Son
+
+Richard C. WILLINGTON	 	2 	M	Devonport, Devon, England
+
+	Rel:	Son
+
+William H. WILLINGTON	 	11 m	M	Devonport, Devon, England
+
+	Rel:	Son
+
+
+
+
+
+Census Place:	Totnes
+
+Dwelling:	Warland
+
+Samuel TOLCHAR	M	40 	M	Brent, Devon, England
+
+	Rel:	Head
+
+	Occ:	Recruiting Corporal R M
+
+Elizth. WILLINGTON	U	14 	F	Blackawton, Devon, England
+
+	Rel:	Niece
+
+	Occ:	Scholar
+
+
+
+
+
+
+
+Gloucester, England
+
+
+
+Census Place:	Berkeley
+
+Dwelling:	Salter Street
+
+Eliza WILLINGTON	W	61 	F	Berkeley, Gloucester, England
+
+	Rel:	Head
+
+	Occ:	Seamstress
+
+
+
+
+
+Census Place:	Bristol St Philip & Jacob Out
+
+Dwelling:	3 Penstone Place
+
+Joshua WILLINGTON	M	57 	M	Birmingham St Pauls
+
+	Rel:	Head
+
+	Occ:	Glass Cutter
+
+Mary Ann WILLINGTON	M	58 	F	Birmingham Edgbaston
+
+	Rel:	Wife
+
+John WILLINGTON	U	26 	M	Bristol Redcliffe
+
+	Rel:	Son
+
+	Occ:	Glass Cutter
+
+Sarah WILLINGTON	U	17 	F	Bristol Bedminster
+
+	Rel:	Daur
+
+	Occ:	Stay Cottner
+
+Charles WILLINGTON	 	10 	M	Bristol Bedminster
+
+	Rel:	Son
+
+	Occ:	Scholar
+
+
+
+Dwelling:	7 Goodhind St
+
+Arthur WILLINGTON	M	26 	M	Shirehampton, Gloucester, England
+
+	Rel:	Head
+
+	Occ:	Boot Trade Cutter
+
+Isabel WILLINGTON	M	27 	F	Scotland
+
+	Rel:	Wife
+
+Arthur WILLINGTON	 	4 	M	Bristol
+
+	Rel:	Son
+
+Steaven WILLINGTON	 	2 	M	Bristol
+
+	Rel:	Son
+
+Florence WILLINGTON	 	8 m	F	Bristol
+
+	Rel:	Daur
+
+
+
+
+
+Census Place:	Bristol St Michael
+
+Dwelling:	35 St Michaels Hill
+
+Phoebe WILLINGTON	U	29 	F	Shirehampton, Gloucester, England
+
+	Rel:	Head
+
+	Occ:	Dress & Mantle Maker
+
+
+
+
+
+Census Place:	Cheltenham
+
+Dwelling:	Denmark Cottage Gloucester Road
+
+Joseph WILLINGTON	M	82 	M	Shobdon, Hereford, England
+
+	Rel:	Head
+
+	Occ:	Lecturer On Telegraphy
+
+Eliza R. WILLINGTON	M	81 	F	Caermarthen, Wales
+
+	Rel:	Wife
+
+Mary A. WELCH	U	22 	F	Cheltenham
+
+	Rel:	Servt
+
+	Occ:	Domestic Servant
+
+
+
+Dwelling:	2 Beaufort Buildings
+
+Agnes S. WILLINGTON	U	45 	F	Cheltenham, Gloucester, England
+
+	Rel:	Head
+
+	Occ:	Waistcoat Maker
+
+
+
+
+
+Census Place:	Newnham
+
+Dwelling:	High Street
+
+Henry WILLINGTON	M	67 	M	Newnham, Gloucester, England
+
+	Rel:	Head
+
+	Occ:	Leather Seller 2 Men 1 Boy (Currier)
+
+Mary A. WILLINGTON	M	63 	F	Newnham, Gloucester, England
+
+	Rel:	Wife
+
+Bessie WILLINGTON	U	33 	F	Newnham, Gloucester, England
+
+	Rel:	Daur
+
+
+
+
+
+Census Place:	Stapleton
+
+Dwelling:	Mayfield Park
+
+Robert HICKS	M	54 	M	Hawksbury Upton, Gloucester, England
+
+	Rel:	Head
+
+	Occ:	Agl Labourer
+
+Edith Colston WILLINGTON	 	5 	F	Bristol St Pauls
+
+	Rel:	Nurse Child
+
+	Occ:	Scholar
+
+
+
+
+
+Census Place:	(Westbury On Severn) East Dean
+
+Dwelling:	 
+
+Richard THOMAS	U	70 	M	Newnham, Gloucester, England
+
+	Rel:	Head
+
+	Occ:	Gardener 7-3
+
+Sarah WILLINGTON	O	61 	F	Littledean
+
+	Rel:	Boarder
+
+
+
+Dwelling:	 
+
+John BALDWIN	M	27 	M	Dean Forest, Gloucester, England
+
+	Rel:	Head
+
+	Occ:	Coal Miner
+
+Leonard WILLINGTON	U	21 	M	Dean Forest, Gloucester, England
+
+	Rel:	Brother In Law
+
+	Occ:	Coal Miner
+
+
+
+Dwelling:	Joys Green
+
+Ann JORDAN	W	59 	F	Lydbrook, Gloucester, England
+
+	Rel:	Head
+
+Sarah A. Jordan WILLINGTON	 	14 	F	Lydbrook, Gloucester, England
+
+	Rel:	G Daur
+
+	Occ:	Scholar
+
+
+
+
+
+Census Place:	Westbury On Trym
+
+Dwelling:	Hillside House Redland Rd
+
+Thomas D. TAYLOR	M	58 	M	Bristol, Gloucester, England
+
+	Rel:	Head
+
+	Occ:	Journalist
+
+Amy WILLINGTON	U	23 	F	Hartlebury, Worcester, England
+
+	Rel:	Serv
+
+	Occ:	Housemaid
+
+
+
+
+
+
+
+Somerset, England
+
+
+
+Census Place:	Keynsham
+
+Dwelling:	No 3 West View
+
+Ann H. WILLINGTON	U	52 	F	Keynsham, Somerset, England
+
+	Rel:	Head
+
+	Occ:	Income From Cottage Property
+
+Mercy FEAR	U	59 	F	Keynsham, Somerset, England
+
+	Rel:	Cousin
+
+	Occ:	Governess (Prof)
+
+
+
+Institution:	"Keynsham Union Workhouse"
+
+John G. HOLT	M	48 	M	Bristol, Gloucester, England
+
+	Rel:	Master (Head)
+
+	Occ:	Master Of Keynsham Workhouse (Muni)
+
+Jemima WILLINGTON	U	18 	F	Keynsham Union, Somerset, England
+
+	Rel:	Pauper
+
+	Occ:	Domestic Servant (Pauper)
+
+Albert E. WILLINGTON	 	2 m	M	Keynsham Union, Somerset, England
+
+	Rel:	Pauper
+
+	Occ:	  (Pauper)
+
+
+
+
+
+Census Place:	Swainswick
+
+Dwelling:	Oriel House Glouster Rd
+
+Hugh S. COCHRANE	M	51 	M	N K, Scotland
+
+	Rel:	Head
+
+	Occ:	Officer 43rd Regt
+
+Emily WILLINGTON	U	18 	F	Market Drayton
+
+	Rel:	Serv
+
+	Occ:	Dom Serv
+
+
+
+
+
+Census Place:	Wells St Andrew
+
+Dwelling:	The North Ceders
+
+Madeline Constance TUDWAY	U	7 	F	London, London, Middlesex, England
+
+	Rel:	Dau (Head)?
+
+	Occ:	Scholar
+
+Mary Jane WILLINGTON	U	20 	F	London, London, Middlesex, England
+
+	Rel:	Serv
+
+	Occ:	Housemaid
+

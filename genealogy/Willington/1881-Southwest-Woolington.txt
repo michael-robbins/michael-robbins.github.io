@@ -1,0 +1,38 @@
+1881 Census - Southwestern England - Surname search: Woolington
+
+
+
+Source: Family History Resource file - 1881 British Census - Southwestern Region (1999)
+
+Listings are "copy and paste" extracts from CD based on surname search.  
+
+Non-related lodgers are deleted.  
+
+Other family members than the head are deleted if not a searched surname.  
+
+County's searched include Cornwall, Devon, Dorset, Gloucester, Somerset and Wiltshire.
+
+
+
+Format: Name	Married	Age	Sex	Birthplace
+
+
+
+Devon, England
+
+Census Place:	Plymouth St Andrew
+
+Dwelling:	5 St Michaels Terrace
+
+Alfred E. RYDER	M	40 	M	Devonport, Devon, England
+
+	Rel:	Head
+
+	Occ:	Commercial Clerk Wine & Spirit Business
+
+Susan WOOLINGTON	W	85 	F	Devonport, Devon, England
+
+	Rel:	Boarder
+
+
+

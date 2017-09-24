@@ -1,0 +1,60 @@
+body {
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	background-color: #5FB3E4;
+}
+
+a:link {
+	color: #063f60;
+	font-weight: bolder;
+}
+
+a:visited {
+	color: #063f60;
+	font-weight: bolder;
+}
+
+
+div.default_text {
+	color: #063f60;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-weight: bold;
+	letter-spacing: -0.9px;
+}
+
+span.default_text {
+	color: #063f60;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-weight: bold;
+	letter-spacing: -0.9px;
+}
+
+span.tiny_text {
+	font-size: 8px;
+}
+
+span.small_text {
+	font-size: 12px;
+}
+
+span.medium_text {
+	font-size: 16px;
+}
+
+span.large_text {
+	font-size: 20px;
+}
+
+span.huge_text {
+	font-size: 24px;	
+}
+
+span.heading_text {
+	line-height: 200%;
+	padding-left: 8px;
+	padding-right: 8px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
