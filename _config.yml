@@ -10,8 +10,6 @@ github_username: michael-robbins
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-feed
 
 exclude:
   - README.md
