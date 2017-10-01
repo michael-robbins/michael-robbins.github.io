@@ -1,0 +1,10 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - gem install jekyll
+  build:
+    commands:
+      - jekyll build
+      - aws s3 sync --delete _site/ s3://dalmura.com.au/
