@@ -15,4 +15,3 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
-  - generate_s3_redirect_rules.py
