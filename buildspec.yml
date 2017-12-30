@@ -3,6 +3,7 @@ version: 0.2
 phases:
   install:
     commands:
+      - gem install bundler --pre
       - bundle update
   build:
     commands:
