@@ -3,6 +3,7 @@ version: 0.2
 phases:
   install:
     commands:
+      - bundle update
       - gem install jekyll
   build:
     commands:
