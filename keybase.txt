@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/michaelrobbins
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dalmura.com.au
+  * I am michaelrobbins (https://keybase.io/michaelrobbins) on keybase.
+  * I have a public key with fingerprint EF69 4E13 E877 1D2C 6179  FFA4 CE4F 3348 5DC0 C405
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018b732d021c38469ff076015140ed0ad8c5822e26987b404efadd6430431c107f0a",
+      "fingerprint": "ef694e13e8771d2c6179ffa4ce4f33485dc0c405",
+      "host": "keybase.io",
+      "key_id": "ce4f33485dc0c405",
+      "kid": "01018b732d021c38469ff076015140ed0ad8c5822e26987b404efadd6430431c107f0a",
+      "uid": "8ad2166d1fa71caf7637777124755c19",
+      "username": "michaelrobbins"
+    },
+    "merkle_root": {
+      "ctime": 1577749389,
+      "hash_meta": "5b6c28aabc23d9cc83bc1d39e3f8a60f03b5b4829b13ba7ddc66704a18e085c5",
+      "seqno": 14023992
+    },
+    "revoke": {
+      "sig_ids": [
+        "cff30cd21aacbccda250ed60f76d3eb3cb03da97430afdb156d608209c323c960f"
+      ]
+    },
+    "service": {
+      "hostname": "dalmura.com.au",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1577749391,
+  "expire_in": 157680000,
+  "prev": "82f37ff18910347c316d39ce052f6d0bc2815033d4834fd58b988ec9bb83135e",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMK+AnicrZNtiBVVGMfvuq66uxoGRkoJOppRLMt5mzPnXPrQWmzliq7Qq5W387p3
+9t47c3dm7lWRRag+REsYReDLRhiGLBGEUYRJG9dV0yiipD4VIVGJgZuJFZvYmYsR
+RB87X4Y55//8n//zOzMzSzoLPR2/ntv90wsnb3y545PW7kZhW8/Enl2ejPVOr7jL
+q5j2w1S1SbNSJdRe0QMQQCYDjDRAUGFGKLcWBBRAHxJgNBCaKZ8hZBDlLJAEEGOF
+1pRgQDBUEAQWCK/Ps2E0YpJ6EkaZszWWcmIgNiwIoEaKwsD5CqIMsRgT5msFFAG+
+KyzHaV7hwkmRmv4wdnvupdSO9x/6/zl3o23HhEaQUg2tCKASNqA4cAsiEvi+gjwX
+piaJRM04dS1UZWGqSSxlGKXeeJ9XM0mlakpJHGc5YpWFuRD6zoNwzLgbU6TlUs1k
+wtX7kirEhJAKYc2VYlgqqDE32DJBgQVY+pIwxCXEUgRaK0oDQARkBjBf5RRSMxbF
+rgMBCHOOXITENOOKybun4Yijl3rFxz1lLQbKzSaEkkppgXwHx7UIqMZGYiUB1oIH
+joqwWkKfukOGAFcYYcWd0HtyPO+WNEPVNs+v6zoGLaq1RiL6VVzrFw0Xqp7EWazi
+qjsrZ1k9LeZosp31XLzdyNJ1m5Kjpt3n4iqaJknDOHKDOOW/qHHY55kd9TAxpTBq
+b1MG3Mr7mGZ+acjiwFrIOASYBApDNxRXBvjIUg0cXQZ9gLEmDBOrfSY5Y0ZxKRmG
+2Df/YETY5RQjztOxi0TWSIw33vroifmFjp7Cgq55+X9U6Ole+vffdXFq4bV7X4m2
+Th/79vy82aF9m97Zf3hl8suao/THyrPJ8Svvg+4DT298a/+RE5eC37rmLqyyR09f
+PsUPTX6w+r6pOX/kS7jtVT7/9lPJ0A3nZ147+NJo183LT597YH3fPfjudasOZH/w
+4YFPx1a+O7f3zMUfpps/73tm0F+78NIdi6buRxuXNG9b80bnkY5H6cwjQfnztWx0
++KFvHp577CYQbb/zcrP81fiFW57q7dxa3Nz7/aIV1RenF+8YGNwQP9c99NmAHpzC
+Z75bfHbBskLy5+ujas/qdbMbxo9vebB1dnNr2eEtb05Mds8uXfH82wc/nrw6aVu/
+j319VX0xHZ44eW3TXfTDiWFOl9/6Xu/eY+uv/AW7Nn/j
+=BqNi
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/michaelrobbins
+
+==================================================================
