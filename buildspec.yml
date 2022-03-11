@@ -2,10 +2,14 @@ version: 0.2
 
 phases:
   install:
+    runtime-versions:
+      ruby: "2.7"
     commands:
       - gem install bundler --pre
       - bundle update
   build:
+    runtime-versions:
+      ruby: "2.7"
     commands:
       - jekyll build
       - aws s3 sync --delete _site/ s3://dalmura.com.au/
